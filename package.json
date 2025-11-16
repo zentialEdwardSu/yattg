@@ -1,11 +1,11 @@
 {
-  "name": "totp-setup",
+  "name": "yattg",
   "version": "0.3.0",
-  "description": "Simple TOTP setup + CLI authenticator with countdown",
+  "description": "Simple TOTP setup CLI.",
   "type": "commonjs",
   "main": "dist/index.js",
   "bin": {
-    "totp-setup": "dist/index.js"
+    "yattg": "dist/index.js"
   },
   "scripts": {
     "build": "tsc",
